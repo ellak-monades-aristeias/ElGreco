@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/PatreopolisSOAP/Die?WSDL" uri="xml-resources/web-service-references/Die/wsdl/localhost_8080/PatreopolisSOAP/Die.wsdl"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP/Die?xsd=1" uri="xml-resources/web-service-references/Die/wsdl/localhost_8080/PatreopolisSOAP/Die.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP/PatreopolisSOAPService?Tester" uri="xml-resources/web-service-references/PatreopolisSOAPService_Tester/wsdl/localhost_8080/PatreopolisSOAP/PatreopolisSOAPService.tester"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP/PatreopolisSOAPService?wsdl" uri="wsdl/localhost_8080/PatreopolisSOAP/PatreopolisSOAPService.wsdl"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP/PatreopolisSOAPService?xsd=1" uri="wsdl/localhost_8080/PatreopolisSOAP/PatreopolisSOAPService.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP2/PatreopolisSOAP2Service?wsdl" uri="wsdl/localhost_8080/PatreopolisSOAP2/PatreopolisSOAP2Service.wsdl"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP2/PatreopolisSOAP2Service?xsd=1" uri="wsdl/localhost_8080/PatreopolisSOAP2/PatreopolisSOAP2Service.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP2Copy/PatreopolisSOAP2CopyService?wsdl" uri="wsdl/localhost_8080/PatreopolisSOAP2Copy/PatreopolisSOAP2CopyService.wsdl"/>
+    <system systemId="http://localhost:8080/PatreopolisSOAP2Copy/PatreopolisSOAP2CopyService?xsd=1" uri="wsdl/localhost_8080/PatreopolisSOAP2Copy/PatreopolisSOAP2CopyService.xsd_1.xsd"/>
+</catalog>
