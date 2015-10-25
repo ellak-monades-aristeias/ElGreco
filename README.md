@@ -2,6 +2,9 @@
 
 Για περισσότερες πληροφορίες, επισκεφτείτε το [github wiki] (https://github.com/ellak-monades-aristeias/ElGreco/wiki).
 
+[Ταυτότητα έργου σε pdf μορφή] (https://onedrive.live.com/view.aspx?cid=7e7b8edb9103ce9e&page=view&resid=7E7B8EDB9103CE9E!11587&parId=7E7B8EDB9103CE9E!320&app=WordPdf)
+
+
 | **Πίνακας Παραδοτέων**           | **URL**  |
 |:-------------:| -----:|
 | Πηγαίος Κώδικας σχεδίασης και υλοποίησης της πρότασης έργου | https://github.com/ellak-monades-aristeias/ElGreco/tree/master/src/com/telis/patreopolis  |
