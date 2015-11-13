@@ -6,6 +6,8 @@
 
 [Ταυτότητα έργου στο Wiki] (https://github.com/ellak-monades-aristeias/ElGreco/wiki#%CE%A4%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%AD%CF%81%CE%B3%CE%BF%CF%85)
 
+[Ταυτότητα έργου στο Wiki στην αγγλική γλώσσα] (https://github.com/ellak-monades-aristeias/ElGreco/wiki#task-identity)
+
 
 | **Πίνακας Παραδοτέων**           | **URL**  |
 |:-------------:| -----:|
