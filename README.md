@@ -4,6 +4,11 @@
 
 [Ταυτότητα έργου σε pdf μορφή] (https://onedrive.live.com/view.aspx?cid=7e7b8edb9103ce9e&page=view&resid=7E7B8EDB9103CE9E!11587&parId=7E7B8EDB9103CE9E!320&app=WordPdf)
 
+
+## Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers) ##
+...εδώ περιγράφετε τους δυνητικούς τελικούς χρήστες του έργου σας και τις κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο σας. ...
+
+
 [Ταυτότητα έργου στο Wiki] (https://github.com/ellak-monades-aristeias/ElGreco/wiki#%CE%A4%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%AD%CF%81%CE%B3%CE%BF%CF%85)
 
 [Ταυτότητα έργου στο Wiki στην αγγλική γλώσσα] (https://github.com/ellak-monades-aristeias/ElGreco/wiki#task-identity)
